@@ -14,3 +14,10 @@ body {
     background-size: cover;
     background-position: center;
 }
+
+.register {
+    width: 750px;
+    background: rgba(225, 225, 225, 28);
+    border: 2px solid rgba(225, 225, 225, .2);
+    box-shadow: 0 0 10px;
+}
